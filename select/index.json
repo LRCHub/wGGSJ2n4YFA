@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ParadoXXX Invasion",
+  "base_artist": "ENHYPEN",
+  "createdAt": "2026-01-07T11:36:11.178989Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ParadoXXX Invasion",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/01_ParadoXXX_Invasion_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ParadoXXX Invasion",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/02_ParadoXXX_Invasion_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ParadoXXX Invasion",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/03_ParadoXXX_Invasion_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ParadoXXX Invasion (Paused)",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/04_ParadoXXX_Invasion_(Paused)_ENHYPEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ParadoXXX Invasion",
+      "artist": "ENHYPEN",
+      "has_synced": false,
+      "path": "select/pl_01_ParadoXXX_Invasion_ENHYPEN.txt"
+    }
+  ]
+}
